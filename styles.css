@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(219, 216, 216);
+}
+h1{
+    text-align: center;
+    padding: 50px 25px 50px 25px;
+    font-family: 'Reggae One', cursive;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Reggae One', cursive;
+}
+button{
+    position: absolute;
+    left: 42%;
+    right: 50%;
+    top: 85%;
+    color: white;
+    background-color:black ;
+    font-size: 22px;
+    padding: 15px;
+    border-radius: 25px;
+}
+button:hover{
+    background-color: rgb(85, 80, 80);
+    
+
+}
